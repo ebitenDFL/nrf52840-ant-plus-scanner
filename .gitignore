@@ -1,0 +1,20 @@
+# Private ANT+ credentials
+ant_plus_key.h
+
+# Build output
+_build/
+
+# DFU packages / generated binaries
+*.zip
+*.bin
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Editor / OS
+.vscode/
+.idea/
+*~
+.DS_Store

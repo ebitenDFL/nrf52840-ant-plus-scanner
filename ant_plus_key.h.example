@@ -1,0 +1,7 @@
+#ifndef ANT_PLUS_KEY_H
+#define ANT_PLUS_KEY_H
+#include <stdint.h>
+/* Insert the 8-byte ANT+ network key supplied through your authorized
+ * ANT+/Garmin developer access. Do not publish or commit the key. */
+#error "Create ant_plus_key.h from ant_plus_key.h.example and insert your authorized ANT+ network key."
+#endif
